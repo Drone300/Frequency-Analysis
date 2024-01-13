@@ -5,6 +5,6 @@ Decrytping ciphertext using Frequency Analysis
 
 After running the code for this ciphertext the output may resemble words.
 
-![image](https://github.com/Drone300/Frequency-Analysis/assets/124827807/1b43cc29-0b0c-4615-90b6-12e33072df9c)
+![image](https://github.com/Drone300/Frequency-Analysis/assets/124827807/2572be55-9407-47b1-9667-e46e15feb00d)
 
 The interpretation and full deciphering of the text depends on the user's knowledge and understanding of the english language.
